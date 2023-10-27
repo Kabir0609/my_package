@@ -4,7 +4,7 @@
   <name>my_package</name>
   <version>0.0.0</version>
   <description>My first package</description>
-  <maintainer email="ubuntu@todo.todo">kabir</maintainer>
+  <maintainer email="ubuntu@todo.todo">ubuntu</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
